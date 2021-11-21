@@ -7,3 +7,6 @@ Here we try to capture the essence of OG farmers. OG Farmers are the badass farm
 
 ### Intensive Farmers
 Here we came up with two design ideas. In both badges, we try to remember the newcomers and those who are still in their youth, ready to work and plan out the future.  Intensive Farmers are always hard at work with planning on working in this modern world. Nothing can stop them from achieving their goals. 
+
+![alt text](https://github.com/jaypatelme/POAPathon/blob/main/IntensiveFarmers2.png?raw=true)
+![alt text](https://github.com/jaypatelme/POAPathon/blob/main/IntensiveFarmer.png?raw=true)
